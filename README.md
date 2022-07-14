@@ -1,7 +1,7 @@
 # Clickbait Detector
 
-## 🕯 About
-**clickbait-detector** is a *machine learning model* that predicts if a given article or blog heading is clickbait or not. It uses Deep Learning techniques to do so.
+## About
+**Clickbaitor** is a *machine learning model* that predicts if a given article or blog heading is clickbait or not. It uses Deep Learning techniques to do so.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
